@@ -1,7 +1,7 @@
 # KOSPO-DACON-AI-Competition
 1st COSPO x DACON Car Crash Analysis AI Competition
 
-최종 성적: Public 4위, Private 4위 (839명 중)
+최종 성적: Public 4위, Private 4위 (843명 중)
 
 ![image](https://user-images.githubusercontent.com/85815265/226120132-e0e1d913-c3d0-4284-9beb-38bcaf8be7c9.png)
 
