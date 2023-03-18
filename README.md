@@ -1,5 +1,6 @@
 # KOSPO-DACON-AI-Competition
 1st COSPO x DACON Car Crash Analysis AI Competition
+
 weight link: https://drive.google.com/drive/folders/1_GzsmjL0uBL5MrShJYDXyvUmMwvbQerb?usp=sharing
 
 최종 성적: Public 4위, Private 4위 (843명 중)
