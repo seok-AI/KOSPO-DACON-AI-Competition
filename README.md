@@ -3,7 +3,7 @@
 
 Dacon Competition link: https://dacon.io/competitions/official/236064/overview/description
 
-weight link: https://drive.google.com/drive/folders/1_GzsmjL0uBL5MrShJYDXyvUmMwvbQerb?usp=sharing
+weight parameter link: https://drive.google.com/drive/folders/1_GzsmjL0uBL5MrShJYDXyvUmMwvbQerb?usp=sharing
 
 최종 성적: Public 4위, Private 4위 (843명 중)
 
