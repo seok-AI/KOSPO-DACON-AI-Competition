@@ -1,7 +1,7 @@
 # KOSPO-DACON-AI-Competition
 1st COSPO x DACON Car Crash Analysis AI Competition
 
-Dacon Competetion link: https://dacon.io/competitions/official/236064/overview/description
+Dacon Competition link: https://dacon.io/competitions/official/236064/overview/description
 
 weight link: https://drive.google.com/drive/folders/1_GzsmjL0uBL5MrShJYDXyvUmMwvbQerb?usp=sharing
 
