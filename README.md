@@ -9,6 +9,4 @@ weight parameter link: https://drive.google.com/drive/folders/1_GzsmjL0uBL5MrShJ
 
 ![image](https://user-images.githubusercontent.com/85815265/226120132-e0e1d913-c3d0-4284-9beb-38bcaf8be7c9.png)
 
-![image](https://user-images.githubusercontent.com/85815265/226120194-a0cc2268-8f10-45ba-996f-6f2642623028.png)
-
 ![image](https://user-images.githubusercontent.com/85815265/228132182-dd28d1cc-da97-46ae-8b1d-184520fb4226.png)
