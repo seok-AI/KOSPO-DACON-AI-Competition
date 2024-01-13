@@ -7,10 +7,10 @@
 4. [Reference](#Reference)
 
 ## Dacon
-Dacon Competition link: https://dacon.io/competitions/official/236064/overview/description
+[Dacon Competition link](https://dacon.io/competitions/official/236064/overview/description)
 
 ## weight
-weight parameter link: https://drive.google.com/drive/folders/1_GzsmjL0uBL5MrShJYDXyvUmMwvbQerb?usp=sharing
+[weight parameter](https://drive.google.com/drive/folders/1_GzsmjL0uBL5MrShJYDXyvUmMwvbQerb?usp=sharing)
 
 ## Result
 최종 성적: Private 4위 (수상) (449팀 중)
